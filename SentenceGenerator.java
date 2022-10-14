@@ -1,3 +1,4 @@
+// This is the Project of Devops Lab for making the Sentence Generator program
 import java.util.Scanner;
 
 public class sentence {
@@ -64,4 +65,4 @@ public class sentence {
     }
 }
 
-// This code is committed by Shivam, Anish, Mayank, Lakshay
+// This code is committed by Shivam, Anish, Mayank and Lakshay
