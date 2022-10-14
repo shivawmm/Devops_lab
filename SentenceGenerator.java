@@ -47,15 +47,15 @@ public class sentence {
     // Driver program to test above functions
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        
+        #Taking input from the user
         String[][] arr =new String[3][3];
         for(int i=0;i<3;i++){
             for(int j=0;j<3;j++){
-                if(i==0)
+                if(i==0&&j==0)
                     System.out.println("enter the pronouns like I, you, he, she");
-                    if(i==1)
+                    if(i==1&&j==0)
                     System.out.println("enter the helping verbs like is, are, have has etc");
-                    if(i==2)
+                    if(i==2&&j==0)
                     System.out.println("enter the verbs like walking, working etc");
                 arr[i][j]= sc.next();
             }
