@@ -64,4 +64,4 @@ public class sentence {
     }
 }
 
-// This code is contributed by gauravrajput1
+// This code is committed by Shivam, Anish, Mayank, Lakshay
