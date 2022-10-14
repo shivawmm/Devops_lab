@@ -1,4 +1,4 @@
-// This is the Project of Devops Lab for making the Sentence Generator program
+// This is the Project of Devops Lab Batch 4 for making the Sentence Generator program
 import java.util.Scanner;
 
 public class sentence {
